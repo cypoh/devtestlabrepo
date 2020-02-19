@@ -1,4 +1,4 @@
 {
     "itemDisplayName": "Logicapp-base",
-    "description": "base template to create a logic app"
+    "description": "base template to create a logic app. the logic app will come with a prebuilt recurrence time trigger, and will invoke the test Uri every hour"
   }
